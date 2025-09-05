@@ -1,0 +1,6 @@
+streamlit
+groq
+langchain-core
+langchain-groq
+requests
+python-dotenv
